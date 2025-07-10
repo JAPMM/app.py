@@ -4,3 +4,8 @@ numpy
 scikit-learn
 matplotlib
 openai
+plotly
+seaborn
+xlsxwriter
+pyarrow
+fpdf
